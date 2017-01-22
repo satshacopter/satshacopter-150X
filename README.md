@@ -7,7 +7,7 @@
 satshacopter 150X
 --
 
-satshacopter 150X is a quadcopter built around the **[satshakit mini flight controller](https://github.com/satshakit/satshakit-mini-flight-controller)**. It is designed to be **simple and cheap as much as possible**, and to be easily made inside any **Fab Lab**.
+satshacopter 150X is a quadcopter built around the **[satshakit mini flight controller](https://github.com/satshakit/satshakit-mini-flight-controller)** and derived from its big brother [satshacopter 250X](https://github.com/satshacopter/satshacopter-250X). It is designed to be **simple and cheap as much as possible**, and to be easily made inside any **Fab Lab**.
 
 150X specifications:
 
