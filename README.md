@@ -1,6 +1,6 @@
 <h1 style="font-family: courier;" align="center">satshacopter 150X</h1>
 <p align="center">
-<img src="media/250X_0.jpg" width="70%">
+<img src="media/150x_first.jpg" width="70%">
 <div align="center"><i>An open source,small, low cost and fabbable quad X drone.</i></div>
 </p>  
 
@@ -20,6 +20,8 @@ satshacopter 150X is a quadcopter built around the **[satshakit mini flight cont
 - Hobby King 4 channel **remote and receiver**
 - 1000mah 2S 65C **LiPo battery** 
 - costs around **100€**
+
+<img src="media/150x_ground.jpg" width="70%">
 
 Here you can look about the **MultiWii pin mapping** of the satshakit mini flight controller board:
 
@@ -63,15 +65,12 @@ Following you can find all the **design files** you need to make it:
 Media
 --
 
-Some images of a built satshacopter 150X
+Some images of a satshacopter 150X:
 
-<img src="media/250X_1.jpg" width="70%">
-<img src="media/250X_4.jpg" width="70%">
-<img src="media/250X_3.jpg" width="70%">
-<img src="media/250X_2.jpg" width="70%">
-<img src="media/250X_5.jpg" width="70%">
-<img src="media/250X_6.jpg" width="70%">
-<img src="media/250X_sky.jpg" width="70%">
+<img src="media/150x_board.jpg" width="70%">
+<img src="media/150x_soldered.jpg" width="70%">
+<img src="media/150x_flipped.jpg" width="70%">
+<img src="media/150x_side.jpg" width="70%">
 
 Authors
 --
