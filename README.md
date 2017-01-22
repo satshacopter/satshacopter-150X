@@ -30,12 +30,12 @@ And here you can che the required components in the **Bill of Material** table:
 |name|description|vendor|link|price|notes|
 |:---:| :---:|:---:|:---:|:---:|:---:|
 |2.4Ghz4Ch TxRx V2|4ch mode 2 remote control and receiver|Hobby King|[link](http://www.hobbyking.com/hobbyking/store/__66499__Hobby_King_2_4Ghz_4Ch_Tx_Rx_V2_Mode_2_EU_Warehouse_.html)|23.14€|-|
-|Turnigy Graphene|battery 1000mah 2s 65C|Hobby King|[link](http://www.hobbyking.com/hobbyking/store/__36064__ZIPPY_Compact_1000mAh_3S_25C_Lipo_Pack_EU_Warehouse_.html)|5.55€|-|
-|LDPOWER D150 Multicopter Power System|4 x 2206-1900kv motors and 4 x 15A ESC|Hobby King EU|[link](http://www.hobbyking.com/hobbyking/store/__84723__LDPOWER_D250_2_Multicopter_Power_System_2206_1900kv_6_x_3_4_Pack_EU_Warehouse_.html)|43.81€|propellers Included|
+|Turnigy Graphene|battery 1000mah 2s 65C|Hobby King|[link](https://hobbyking.com/en_us/graphene-1000mah-2s-65c-w-xt60.html)|8.42€|-|
+|LDPOWER D150 Multicopter Power System|4 x MT1306-3100KV motors and 4 x 6A esc|Hobby King EU|[link](https://hobbyking.com/en_us/ldpower-d150-multicopter-power-system-mt1306-3100kv-4-x-4-5-4-pack.html)|59.26€|propellers Included|
 |IMU 6DOF|MPU6050 Gyro + Acc IMU|Ebay|[link](http://www.ebay.de/itm/MPU-6050-GY-521-3-Achsen-Gyroskop-Accelerometer-Kreisel-Board-Sensor-Arduino-21-/121887579651)|5.39€|-|
 |LiPo Charger and Balancer|800mah 3s LiPo charger|Hobby King|[link](http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=77525)|6.99€|-|
 |Fligh Controller|satshakit mini flight controller|various|[link](https://github.com/satshakit/satshakit-flight-controller)|4.00-8.00€|depending on the quantity|
-||||**Total price**|89.19€+4/8€|-|
+||||**Total price**|103.2€+4/8€|-|
 
 NOTE: prices may change over time on the respective vendors, and also it is highly dependand on the quantity of drones you want to make.
 
@@ -48,9 +48,10 @@ If you want to build by yourself a satshacopter 150X, please download the detail
 
 Following you can find all the **design files** you need to make it:
 
-- [satshakit flight controller eagle board](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/eagle_projects/satshakit_flight_controller/satshakit_fc_power.brd)
-- [satshakit flight controller eagle sch](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/eagle_projects/satshakit_flight_controller/satshakit_fc_power.sch)
-- [satshakit flight controller internal traces png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_internal.png)
+- [satshakit mini flight controller eagle board](https://github.com/satshacopter/satshacopter-150X/raw/master/eagle_projects/satshakit_mini_flight_controller/satshakit_mini_fc.brd)
+- [satshakit mini flight controller eagle sch](https://github.com/satshacopter/satshacopter-150X/raw/master/eagle_projects/satshakit_mini_flight_controller/satshakit_mini_fc.sch)
+- [satshakit mini flight controller internal traces png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_internal.png)
+
 - [satshakit flight controller holes png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_holes.png)
 - [satshakit flight controller cut png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_cut.png)
 - [main frame and supports Rhino](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/main_frame_and_supports_8mm.3dm)
