@@ -63,7 +63,7 @@ Following you can find all the **design files** you need to make it:
 Media
 --
 
-Some images of a built satshacopter 250X
+Some images of a built satshacopter 150X
 
 <img src="media/250X_1.jpg" width="70%">
 <img src="media/250X_4.jpg" width="70%">
@@ -72,12 +72,6 @@ Some images of a built satshacopter 250X
 <img src="media/250X_5.jpg" width="70%">
 <img src="media/250X_6.jpg" width="70%">
 <img src="media/250X_sky.jpg" width="70%">
-
-satshacopter 250X perfomance test:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MrtPuotW08c
-" target="_blank"><img src="http://img.youtube.com/vi/MrtPuotW08c/0.jpg" 
-alt="http://img.youtube.com/vi/MrtPuotW08c/0.jpg" width="240" height="180" border="10" /></a>
 
 Authors
 --
