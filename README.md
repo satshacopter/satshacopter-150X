@@ -50,18 +50,15 @@ Following you can find all the **design files** you need to make it:
 
 - [satshakit mini flight controller eagle board](https://github.com/satshacopter/satshacopter-150X/raw/master/eagle_projects/satshakit_mini_flight_controller/satshakit_mini_fc.brd)
 - [satshakit mini flight controller eagle sch](https://github.com/satshacopter/satshacopter-150X/raw/master/eagle_projects/satshakit_mini_flight_controller/satshakit_mini_fc.sch)
-- [satshakit mini flight controller internal traces png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_internal.png)
+- [satshakit mini flight controller internal traces png](https://github.com/satshacopter/satshacopter-150X/raw/master/media/satshakit_mini_fc_internal.png)
+- [satshakit flight controller cut png](https://github.com/satshacopter/satshacopter-150X/raw/master/media/satshakit_mini_fc_cut.png)
+- [mini frame and supports Rhino](https://github.com/satshacopter/satshacopter-150X/raw/master/design_files/frame_and_supports_3mm.3dm)
+- [mini frame dxf](https://github.com/satshacopter/satshacopter-150X/raw/master/design_files/frame.dxf)
+- [mini supports dxf](https://github.com/satshacopter/satshacopter-150X/raw/master/design_files/supports.dxf)
+- [mini foot Rhino](https://github.com/satshacopter/satshacopter-150X/raw/master/design_files/foot.3dm)
+- [mini foot STL](https://github.com/satshacopter/satshacopter-150X/raw/master/design_files/foot.stl)
 
-- [satshakit flight controller holes png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_holes.png)
-- [satshakit flight controller cut png](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/media/satshakit_fc_power_cut.png)
-- [main frame and supports Rhino](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/main_frame_and_supports_8mm.3dm)
-- [main frame and supports dxf](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/main_frame_and_supports_8mm.dxf)
-- [upper frame and supports Rhino](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/upper_frame_4mm.3dm)
-- [upper frame and supports dxf](https://raw.githubusercontent.com/satshacopter/satshacopter-250X/master/design_files/upper_frame_4mm.dxf)
-- [foot Rhino](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/foot.3dm)
-- [foot stl](https://github.com/satshacopter/satshacopter-250X/raw/master/design_files/foot.stl)
-- [satshacopter 250X detailed BOM Excel](https://github.com/satshacopter/satshacopter-250X/raw/master/docs/250X/250X_DOM.xlsx)
-- [satshacopter 250X detailed BOM Open document](https://github.com/satshacopter/satshacopter-250X/raw/master/docs/250X/250_BOM.ods)
+
 
 Media
 --
