@@ -87,6 +87,11 @@ Contact
 Thanks
 --
 
+Aldo Sollazzo [Noumena](http://noumena.io/)<br />
+Carrer de Pere IV 29-35, 4-1, Poblenou, 08018, Barcelona, Spain
+t: (+34) 652964886
+aldo@noumena.io 
+
 [Fablab Kamp-Lintfort](http://fablab.hochschule-rhein-waal.de/index.php/de/)<br />
 Hochschule Rhein-Waal<br />
 Friedrich-Heinrich-Allee 25, 47475 Kamp-Lintfort, Germany<br />
